@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Pseudocoder.kim`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Daniel Kim`,
+      summary: `Build front-end things functionally in Korea.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `My blog three times.`,
+    siteUrl: `https://pseudocoder.kim`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `pseudocoder.kim`,
     },
   },
   plugins: [
